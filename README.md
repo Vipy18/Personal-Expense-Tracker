@@ -213,8 +213,8 @@ expense_tracker
       ├── `login_dialog.py`             # Login/registration UI\
       ├── `charts.py`                   # Chart generation\
       ├── `supabase_init.py`            # Supabase connection test\
-      ├── `verify_setup.py`             # Setup verification script
-\`\`\`
+      ├── `verify_setup.py`             # Setup verification script\
+  \`\`\`
 
 ## Environment Variables
 
