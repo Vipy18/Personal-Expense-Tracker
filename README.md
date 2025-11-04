@@ -135,7 +135,7 @@ python main.py
 ## Need Help?
 
 - Supabase Docs: https://supabase.com/docs
-- Check if `verify_setup.py` or `troubleshoot.py` can help diagnose issues
+- Check if `verify_setup.py` can help diagnose issues
 - Review logs in the console window
   \`\`\`
 
