@@ -201,19 +201,19 @@ python main.py
 ## File Structure
 
 \`\`\`
-expense_tracker/
- * ├── main.py                          # Application entry point with login\
-   ├── requirements.txt                 # Python dependencies\
-   ├── README.md                        # This file\
-   ├── SUPABASE_SETUP.md               # Detailed Supabase setup guide\
-   └── scripts\
-    * ├── supabase_db.py              # Supabase database layer\
-      ├── supabase_schema.sql         # Database schema (run in Supabase)\
-      ├── auth_utils.py               # Password encryption utilities\
-      ├── login_dialog.py             # Login/registration UI\
-      ├── charts.py                   # Chart generation\
-      ├── supabase_init.py            # Supabase connection test\
-      ├── verify_setup.py             # Setup verification script\
+expense_tracker
+ * ├── `main.py`                        # Application entry point with login\
+   ├── `requirements.txt`                # Python dependencies\
+   ├── `README.md`                        # This file\
+   ├── `SUPABASE_SETUP.md`               # Detailed Supabase setup guide\
+   └── `scripts`
+    * ├── `supabase_db.py`              # Supabase database layer\
+      ├── `supabase_schema.sql`         # Database schema (run in Supabase)\
+      ├── `auth_utils.py`              # Password encryption utilities\
+      ├── `login_dialog.py`             # Login/registration UI\
+      ├── `charts.py`                   # Chart generation\
+      ├── `supabase_init.py`            # Supabase connection test\
+      ├── `verify_setup.py`             # Setup verification script
 \`\`\`
 
 ## Environment Variables
