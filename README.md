@@ -24,7 +24,7 @@ A modern, minimalist expense tracking application built with PyQt5 and powered b
 
 - **Frontend**: PyQt5 (Modern Desktop UI)
 - **Backend**: Supabase (PostgreSQL + Authentication)
-- **Database**: PostgreSQL with Row Level Security (RLS)
+- **Database**: PostgreSQL
 - **Charting**: Matplotlib
 - **Security**: PBKDF2-SHA256 password hashing (100,000 iterations)
 
